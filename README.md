@@ -26,13 +26,13 @@ All manual and automation documents are in Json format and Test-API-Report.html.
 ### Manual Testing
 
 - 🔐 Auth: Create token for login  
-- 🎫: Create, update, retrieve, and delete bookings
+- 🎫 Booking: Create, update, retrieve, and delete bookings
 - 🧾 Data validation for booking details
-- ❌ Error handling for missing or invalid data  
+- ❌ Negative scenarios (invalid login, missing/incorrect data)  
 
 ### Automated Testing
 
-- Test cases automated via Postman collection  
+- Test cases automated via **Postman** collection  
 - Executed using **Newman** via command line
 - Generates detailed HTML reports
 
