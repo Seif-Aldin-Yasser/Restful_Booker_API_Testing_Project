@@ -3,7 +3,7 @@
 
 ## 🔗 Live Demo
 
-<a href="(https://restful-booker.herokuapp.com/">👉 Click Here to View</a>
+<a href="https://restful-booker.herokuapp.com/">👉 Click Here to View </a>
 
 ---
 
