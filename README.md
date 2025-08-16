@@ -1,4 +1,4 @@
-## 💻 Restful Booker API Testing Project
+## 💻 Restful Booker - API Testing Project
 
 
 ## 🔗 Live Demo
