@@ -25,10 +25,10 @@ All manual and automation documents are in Json format and Test-API-Report.html.
 
 ### Manual Testing
 
-- 🔐 Auth: Create token for login  
-- 🎫 Booking: Create, update, retrieve, and delete bookings
-- 🧾 Data validation for booking details
-- ❌ Negative scenarios 
+- 🔐 **Auth:** Create token for login  
+- 🎫 **Booking:** Create, update, retrieve, and delete bookings
+- 🧾 **Data validation** for booking details
+- ❌ **Negative scenarios**
 
 ### Automated Testing
 
